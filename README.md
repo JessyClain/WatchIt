@@ -47,14 +47,6 @@ And go to the [browser](http://localhost:3000) to view the application!
 * [Heroku](https://http://heroku.com/) - Hosting
 
 
-## Authors
-
-* **Lucas Jensen** - *Frontend and Design* - [Gitub](https://github.com/lucasjensen56)
-* **Josh Hedstrom** - *Frontend and Authentication* - [Gitub](https://github.com/joshhedstrom)
-* **Lucas Werner** - *Backend* - [Gitub](https://github.com/lwerner27)
-* **Jason Robinson** - *Backend and Authentication* - [Gitub](https://github.com/jasonrobnson)
-* **Ben Tommerdahl** - *Routes* - [Gitub](https://github.com/btommer2017)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
